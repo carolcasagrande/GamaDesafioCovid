@@ -1,2 +1,2 @@
 # GamaDesafioCovid
-Para acessae o site: https://desafiogamaairbnbhomeflex.netlify.app
+Para acessar o site: https://gamadesafiocovid.netlify.app
